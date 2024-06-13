@@ -1,4 +1,4 @@
-<img width="30px" src="img/logo.jpg" alt="logo" />
+<img width="300px" src="img/logo.png" alt="logo" />
 
 
 # Untung's Landing page practice (HTML CSS)
