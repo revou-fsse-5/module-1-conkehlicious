@@ -1,3 +1,6 @@
+<img width="30px" src="img/logo.jpg" alt="logo" />
+
+
 # Untung's Landing page practice (HTML CSS)
 
 ## Hi...there!!!! 👋🏻
