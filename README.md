@@ -12,9 +12,9 @@
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ###### • Hit me up : conkehlicious@gmail.com
 
-# ABOUT THIS PROJECT
+# About This Project
 ##### • Small Business landing page with form
 
-# TAKE A PEEP AT THIS PROJECT
+# Take a peep at This Project
 ##### https://breakfastalldayhub.netlify.app/
 
