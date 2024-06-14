@@ -4,7 +4,7 @@
 # Untung's Landing page practice (HTML CSS)
 
 ## Hi...there!!!! 👋🏻👋🏻👋🏻👋🏻👋🏻
-##### I'm D Untung, You can Call me DT 
+##### I'm D Untung, _You can Call me DT_
 ##### • Software Engineer student batch 5 at REVOU Indonesia
 
 ##### • I'm Currently learning HTML CSS
