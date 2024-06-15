@@ -16,5 +16,5 @@
 ##### • Small Business landing page with form
 
 # Take a peep at This Project
-##### https://breakfastalldayhub.netlify.app/
+##### https://breakfasthub.netlify.app/
 
