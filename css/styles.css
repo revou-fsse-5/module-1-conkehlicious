@@ -15,6 +15,7 @@ nav {
   position: fixed;
   width: 100%;
   top: 0;
+  background-color: rgb(83, 80, 80);
 }
 .logo img {
   width: 100px;
@@ -49,6 +50,7 @@ nav {
   max-width: 1224px;
   width: 90%;
   margin: auto;
+  margin-top: 40px;
 }
 .title-hero {
   width: 100%;
@@ -215,7 +217,7 @@ footer p {
     width: 100%;
     text-align: center;
     margin-top: 40px;
-    font-size: 25px;
+    font-size: 15px;
   }
   .gallery {
     margin: auto;
@@ -253,7 +255,7 @@ footer p {
     width: 100%;
     text-align: center;
   }
-  .aboutus-txt h1 {
+  .aboutus-txt h2 {
     margin-top: -10px;
     font-size: 25px;
   }
