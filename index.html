@@ -25,15 +25,15 @@
   <body>
     <!-- navbar start -->
     <nav>
-      <section class="navbar">
+      <div class="navbar">
         <div class="logo">
           <img src="img/logo.png" alt="nav logo" />
         </div>
-        <a class="navbar-item" href="#">HOME</a>
-        <a class="navbar-item" href="">ABOUT US</a>
-        <a class="navbar-item" href="">MENU</a>
-        <a class="navbar-item" href="">CONTACT US</a>
-      </section>
+        <a class="navbar-item" href="#home">HOME</a>
+        <a class="navbar-item" href="#aboutus">ABOUT US</a>
+        <a class="navbar-item" href="#menu">MENU</a>
+        <a class="navbar-item" href="#contactus">CONTACT US</a>
+      </div>
       <div class="hamburger-icon">
         <i class="fa-solid fa-bars"></i>
       </div>
@@ -41,7 +41,7 @@
     <!-- navbar end -->
 
     <!--  container hero start -->
-    <div class="container-hero">
+    <div class="container-hero" id="home">
       <div class="title-hero">
         <h1>BREAKFAST ALL DAY - HUB</h1>
         <h2>American - Asian - Indonesian</h2>
@@ -64,7 +64,8 @@
     <!-- container hero end -->
 
     <!-- container menu start -->
-    <div class="container-menu">
+
+    <div class="container-menu" id="menu">
       <div class="menu-title">NEVER TOO LATE TO GET BREAKFAST</div>
       <hr />
       <div class="menu-column">
@@ -104,6 +105,7 @@
         </div>
       </div>
     </div>
+
     <!-- container menu end -->
 
     <!-- container promo start -->
@@ -132,7 +134,7 @@
     <!-- cointainer -promo end -->
 
     <!-- container aboutus start -->
-    <div class="container-aboutus">
+    <div class="container-aboutus" id="aboutus">
       <div class="cafe-img-column">
         <div class="cafe-img">
           <img src="img/outdoorcafe.jpg" width="400px" alt="outdoor cafe" />
@@ -155,7 +157,7 @@
 
     <!-- footer -->
 
-    <div class="container-footer">
+    <div class="container-footer" id="contactus">
       <!-- location-map start -->
       <div class="footer-column">
         <div class="map">
